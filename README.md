@@ -1,5 +1,6 @@
 # FreeRobot
 Simulation of a robot roaming free on a specified board
+
 FreeRobot is a command line Java application that simulates a robot which roams freely (randomly) on a specified board of size nxn. 
 There are no obstacles on the board and the robot is prevented from falling from the board. 
 The application starts by placing the robot on the board at random coordinates X, Y, F, where X, Y are the positions on the board (0,0 is the South-West corner and 0,1 is the position above) and F is where the robot is facing (North, South, East, West).
@@ -20,7 +21,7 @@ To Compile
 Example to run the robot application on a 3x3 board
 >java FreeRobot 3 33
 
-The expected output is:
+The expected output is (on my computer giving the seed 33 for the generator):
 
 Hi, I am a free robot!
 
