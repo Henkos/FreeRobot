@@ -7,7 +7,7 @@ The robot moves randomly on the board performing following actions: 'move' will 
 The robot stops when the entire board is covered (the robot has moved to all the squares at least once). 
 The output of the application lists the original position of the robot and all the subsequential actions which performs until it stops.
 The application needs two parameters in the command line: 
- - the size of the board n and a number
+ - the size of the board n
  - a random number which will seed the pseudo-random number generator needed to decide robot's roaming.
 
 The code is compiled with java compiler, javac. In command line, in the directory where you will download the java file, set the path to the javac (on my computer it is the following): 
