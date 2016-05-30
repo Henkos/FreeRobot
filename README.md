@@ -22,43 +22,82 @@ To Run
 The output is:
 
 Hi, I am a free robot!
+
 Starting at the coordinates 0 0 facing West
+
 Turning left at the coordinates 0 0 facing South
+
 Turning left at the coordinates 0 0 facing East
+
 Turning right at the coordinates 0 0 facing South
+
 Turning left at the coordinates 0 0 facing East
+
 Moving at the coordinates 1 0 facing East
+
 Moving at the coordinates 2 0 facing East
+
 Turning left at the coordinates 2 0 facing North
+
 Moving at the coordinates 2 1 facing North
+
 Turning left at the coordinates 2 1 facing West
+
 Turning right at the coordinates 2 1 facing North
+
 Turning right at the coordinates 2 1 facing East
+
 Turning right at the coordinates 2 1 facing South
+
 Turning left at the coordinates 2 1 facing East
+
 Turning left at the coordinates 2 1 facing North
+
 Moving at the coordinates 2 2 facing North
+
 Turning right at the coordinates 2 2 facing East
+
 Turning left at the coordinates 2 2 facing North
+
 Turning left at the coordinates 2 2 facing West
+
 Moving at the coordinates 1 2 facing West
+
 Turning right at the coordinates 1 2 facing North
+
 Turning left at the coordinates 1 2 facing West
+
 Turning left at the coordinates 1 2 facing South
+
 Turning left at the coordinates 1 2 facing East
+
 Turning right at the coordinates 1 2 facing South
+
 Moving at the coordinates 1 1 facing South
+
 Turning left at the coordinates 1 1 facing East
+
 Moving at the coordinates 2 1 facing East
+
 Turning right at the coordinates 2 1 facing South
+
 Turning left at the coordinates 2 1 facing East
+
 Turning left at the coordinates 2 1 facing North
+
 Turning left at the coordinates 2 1 facing West
+
 Turning left at the coordinates 2 1 facing South
+
 Turning right at the coordinates 2 1 facing West
+
 Moving at the coordinates 1 1 facing West
+
 Moving at the coordinates 0 1 facing West
+
 Turning right at the coordinates 0 1 facing North
+
 Moving at the coordinates 0 2 facing North
+
 
 The board has been covered in 37 actions
