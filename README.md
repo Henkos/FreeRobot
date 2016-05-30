@@ -16,10 +16,10 @@ The code is compiled with java compiler, javac. In command line, in the director
 To Compile
 >javac FreeRobot.java
 
-To Run
+Example to run
 >java FreeRobot 3 33
 
-The output is:
+The expected output is:
 
 Hi, I am a free robot!
 
